@@ -1,0 +1,14 @@
+Package: mrdhelpers
+Title: Contains generic helper functions frequently used at
+    MarketRedesign
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jeroen",
+           family = "Smeets",
+           role = c("aut", "cre"),
+           email = "jeroen.smeets@marketredesign.com")
+Description: This package contains helper functions that
+    are frequently for the consu
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

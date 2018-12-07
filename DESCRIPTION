@@ -12,3 +12,8 @@ Description: This package contains helper functions that
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    R (>= 3.1)
+Suggests: 
+    covr,
+    testthat

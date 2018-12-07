@@ -1,3 +1,5 @@
+^CODE_OF_CONDUCT\.md$
+^\.github$
 ^docs$
 ^_pkgdown\.yml$
 ^codecov\.yml$

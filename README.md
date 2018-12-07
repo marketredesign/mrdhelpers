@@ -23,3 +23,9 @@ You can install the released version of mrdhelpers from
 ``` r
 install.packages("mrdhelpers")
 ```
+
+## Contributor Code of Conduct
+
+Please note that the ‘mrdhelpers’ project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to
+this project, you agree to abide by its terms.

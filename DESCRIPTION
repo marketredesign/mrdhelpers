@@ -12,6 +12,9 @@ Description: This package contains helper functions that
     are frequently used for the consultancy projects at
     Marketredesign consulting.
 License: MIT + file LICENSE
+URL: https://github.com/marketredesign/mrdhelpers
+BugReports: 
+    https://github.com/marketredesign/mrdhelpers/issues
 Encoding: UTF-8
 LazyData: true
 Depends: 

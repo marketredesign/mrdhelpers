@@ -1,3 +1,10 @@
+^CODE_OF_CONDUCT\.md$
+^\.github$
+^docs$
+^_pkgdown\.yml$
+^codecov\.yml$
+^\.travis\.yml$
+^README\.Rmd$
 ^LICENSE\.md$
 ^mrdhelpers\.Rproj$
 ^\.Rproj\.user$

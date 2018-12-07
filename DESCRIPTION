@@ -2,13 +2,27 @@ Package: mrdhelpers
 Title: Contains generic helper functions frequently used at
     MarketRedesign
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "Jeroen",
+Authors@R: c(
+           person(given = "Jeroen",
            family = "Smeets",
            role = c("aut", "cre"),
-           email = "jeroen.smeets@marketredesign.com")
+           email = "jeroen.smeets@marketredesign.com"), 
+           person("MarketRedesign", role = c("cph", "fnd")))
 Description: This package contains helper functions that
-    are frequently for the consu
+    are frequently used for the consultancy projects at
+    Marketredesign consulting.
 License: MIT + file LICENSE
+URL: https://github.com/marketredesign/mrdhelpers
+BugReports: 
+    https://github.com/marketredesign/mrdhelpers/issues
 Encoding: UTF-8
 LazyData: true
+Depends: 
+    R (>= 3.1)
+Suggests: 
+    covr,
+    testthat
+Imports: 
+    tools,
+    methods
+RoxygenNote: 6.1.1

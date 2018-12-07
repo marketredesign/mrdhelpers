@@ -22,3 +22,7 @@ Depends:
 Suggests: 
     covr,
     testthat
+Imports: 
+    tools,
+    methods
+RoxygenNote: 6.1.1
